@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-**Xu Wang (王旭)** is currently an assistant researcher at the College of Computer Science, Sichuan University. He received B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a visiting researcher in University of Adelaide and Australian Institute of Machine Learning (AIML), funded by China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis and Multi-modal Learning.
+**Xu Wang (王旭)** is currently an associate researcher at the College of Computer Science, Sichuan University. He received B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a visiting researcher in University of Adelaide and Australian Institute of Machine Learning (AIML), funded by China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis and Multi-modal Learning.
 
 
 # Recent News
